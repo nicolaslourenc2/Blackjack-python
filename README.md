@@ -3,7 +3,7 @@ Jogo 21 (Blackjack) em Python
 Uma implementação simples em modo texto do clássico jogo de cartas 21 (Blackjack). O jogador compete contra o computador (Dealer) para ver quem chega mais perto de 21 pontos sem ultrapassar.
 
 Como Jogar:
-Clone o repositório.
+Baixe o repositório.
 Execute o arquivo blackjack.py no python (python blackjack.py).
 Siga as instruções no terminal para "comprar" uma carta ou "parar".
 
